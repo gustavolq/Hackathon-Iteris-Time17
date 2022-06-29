@@ -18,7 +18,7 @@ Com base nessa premissa, o desafio do projeto era realizar a criação de uma so
 
 Para responder a pergunta em questão, devemos utilizar como base 2 pilares para o projeto :
 1. **Pessoas que querem vender ovos caseiros.**
-2. **Nós / A(O) Usuária(O) / Pessoas que querem comprar.**
+2. **Nós / Usuário(a) / Pessoas que querem comprar.**
 
 Para o desenvolvimento do projeto foi fornecido uma API com uma lista de locais de venda de ovos de Páscoa caseiros.
 
